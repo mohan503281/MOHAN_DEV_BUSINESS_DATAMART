@@ -1,4 +1,11 @@
-The below are frequently asked questions in Interview.
+------The below are frequently asked questions -----------------
+
+
+========================================================
+BOTTLE NECKS=====
+A)STORAGE(DATA LAKES)
+B)AZURE LOG ANALYTICS WORKSPACE
+=============================================================
 
 What is DWH?
 
